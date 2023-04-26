@@ -8,4 +8,6 @@ public class Sales {
 
     //..
     //... sales is..
+
+    //more sales items
 }
